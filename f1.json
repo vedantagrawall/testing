@@ -1,0 +1,31 @@
+{ 
+    "f1 teams": [ 
+        { 
+            "Color": "Blue", 
+            "Drivers": { 
+                "1": "Max Verstappen", 
+                "2": "Pierre Gasly" 
+            }, 
+            "Engine": "Honda", 
+            "team": "Redbull" 
+        }, 
+        { 
+            "Color": "Silver", 
+            "Drivers": { 
+                "1": "Lewis Hamilton", 
+                "2": "Valteri Bottas" 
+            }, 
+            "Engine": "Mercedes", 
+            "team": "Mercedes" 
+        }, 
+        { 
+            "Color": "Yellow", 
+            "Drivers": { 
+                "1": "Daniel Ricciardo", 
+                "2": "Niko Hulkenburg" 
+            }, 
+            "Engine": "Renault", 
+            "team": "Renault" 
+        } 
+    ] 
+} 
